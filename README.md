@@ -40,4 +40,9 @@ Simple Interest = 100
 
 # simple-interest-calculator 
 A simple Bash script project to calculate simple interest.
+<<<<<<< HEAD
  86ed09d (Fixed typo in README)
+=======
+This README was updated to fix a typo.
+
+>>>>>>> 6b91d9e (Fixed typo in README)
