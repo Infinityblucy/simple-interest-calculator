@@ -1,3 +1,4 @@
+ HEAD
 # Simple Interest Calculator
 
 This project is a simple Bash script that calculates Simple Interest based on user input.
@@ -36,3 +37,7 @@ Time = 2
 
 Output:
 Simple Interest = 100
+
+# simple-interest-calculator 
+A simple Bash script project to calculate simple interest.
+ 86ed09d (Fixed typo in README)
